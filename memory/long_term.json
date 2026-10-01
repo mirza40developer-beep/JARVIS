@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "name": {
+      "value": "Mr. Mirza",
+      "updated": "2026-05-22"
+    }
+  },
+  "preferences": {},
+  "projects": {
+    "change_ui_plan": {
+      "value": "manually changing UI",
+      "updated": "2026-05-22"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "bring_laptop": {
+      "value": "User will have to bring a laptop",
+      "updated": "2026-05-22"
+    }
+  }
+}
